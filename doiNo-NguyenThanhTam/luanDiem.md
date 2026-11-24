@@ -314,7 +314,7 @@ _(Dán nguyên văn ý kiến đối thủ vào giữa hai neo dưới đây; n�
 
 - [ ] **[CV-14] [Thu thập chứng cứ]** (Ưu tiên: Cao) Thu thập và kiểm tra các tài liệu tố tụng, tài liệu đính kèm còn thiếu: các phụ lục của Vi bằng và xác nhận đăng ký (TD-02); 05 tài liệu liệt kê kèm Công văn 2006/CV-OPENLAB (TD-09); 06 tài liệu liệt kê kèm Công văn 1006/CV-OPENLAB (TD-15); Thông báo thụ lý vụ án, tài liệu về thụ lý phản tố, đơn phản tố, yêu cầu giám định và Giấy ủy quyền (TD-12, TD-13). — Liên quan: LD-01, LD-04, LD-10, LD-11, LD-12, LD-13 — Đồng bộ hồ sơ: Chưa (đối chiếu theo TD-02, TD-09, TD-12, TD-13, TD-15)
 
-- [ ] **[CV-15] [Thu thập chứng cứ]** (Ưu tiên: Cao) Thu thập và đối chiếu bản gốc/dữ liệu đầy đủ về phương án Token và cơ cấu tiền công: bảng tính và email ngày 08/02, 13/02, 28/08, 02/09/2022; email ngày 20/02/2023 mà Bị đơn viện dẫn; tài liệu Token calculator, chính sách Token, địa chỉ ví, smart contract và lịch sử giao dịch. Đồng thời xác minh việc team đồng ý phương án Token, việc dừng làm tháng 11/2022, ông Tâm quay lại làm việc tháng 12/2022, cơ cấu 72 + 100 + 25 triệu đồng và việc các khoản đã nhận có được khấu trừ khi chốt 197.000.000 đồng hay không. — Liên quan: LD-03, LD-05, LD-06, LD-10, LD-11 — Đồng bộ hồ sơ: Chưa (đối chiếu theo TD-03, TD-19, TD-21, TD-22, TD-23, TD-26)
+- [ ] **[CV-15] [Thu thập chứng cứ]** (Ưu tiên: Cao) Thu thập và đối chiếu bản gốc/dữ liệu đầy đủ về phương án Token và cơ cấu tiền công: bảng tính "Phu_luc_A_tam" và email ngày 08/02/2023, 13/02/2023; email ngày 28/08/2022, 02/09/2022; email ngày 20/02/2023 mà Bị đơn viện dẫn; tài liệu Token calculator, chính sách Token, địa chỉ ví, smart contract và lịch sử giao dịch. Đồng thời xác minh việc team đồng ý phương án Token, việc dừng làm tháng 11/2022, ông Tâm quay lại làm việc tháng 12/2022, cơ cấu 72 + 100 + 25 triệu đồng và việc các khoản đã nhận có được khấu trừ khi chốt 197.000.000 đồng hay không. — Liên quan: LD-03, LD-05, LD-06, LD-10, LD-11 — Đồng bộ hồ sơ: Chưa (đối chiếu theo TD-03, TD-19, TD-21, TD-22, TD-23, TD-26)
 
 <!-- CHÈN_VIỆC_CẦN_LÀM_TRÊN_DÒNG_NÀY -->
 
@@ -324,7 +324,7 @@ _(Dán nguyên văn ý kiến đối thủ vào giữa hai neo dưới đây; n�
 
 ### Nguyên tắc nguồn và đồng bộ
 
-- **Nguồn dữ kiện chuẩn:** `get_md_file` (CASE STATE FILE và MASTER FRAMEWORK). `get_md_file2` là tài liệu lập luận phụ thuộc vào nguồn này.
+- **Nguồn dữ kiện chuẩn:** `get_md_file` (CASE STATE FILE và MASTER FRAMEWORK). `get_md_file_2` là tài liệu lập luận phụ thuộc vào nguồn này.
 - **Nguyên tắc cập nhật:** Khi tiếp nhận dữ kiện mới, trước hết phải ghi nhận vào hồ sơ gốc theo F2. Sau đó mới cập nhật DK, cây lập luận và công việc CV tương ứng. Không dùng CV hoặc DK để thay thế thao tác cập nhật hồ sơ gốc.
 - **Nguyên tắc bảo toàn:** Không được tự thay thế, xóa hoặc làm nhẹ dữ kiện bất lợi trong DK. Mọi thay đổi phải giữ nguyên nguồn và lịch sử có thể truy xuất.
 - **Thông tin định danh:** Thông tin cá nhân, địa chỉ liên hệ và thông tin hành chính chi tiết tiếp tục được quản lý tại MỤC 1 của hồ sơ gốc; không cần sao chép toàn bộ sang file lập luận nếu không phục vụ trực tiếp cho mục đích lập luận.
